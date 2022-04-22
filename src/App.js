@@ -12,7 +12,7 @@ function App() {
         <h2>it contains:</h2>
         <ul>
           <li>rect router and rect router dom 5</li>
-          <li>it has redux and store</li>
+          <li>it has redux and store for connection info see HomePage page component in pages </li>
           <li>it has services for back and front end</li>
           <li>connected to font awesome CDN</li>
         </ul>
