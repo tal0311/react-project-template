@@ -1,5 +1,5 @@
 # React project template frontEnd
-this template has redux router@5 and font awesomw cdn
+**This template has Redux, router@5 and font awesome cdn**
 ## Before you start!!!
 1. Do not clone this!! download with zip
 2. run git init after download
